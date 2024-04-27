@@ -1,0 +1,16 @@
+.bg-image{
+    margin: 0;
+    padding: 0;
+    height: 150vh;
+    background-size: cover;
+    color:white;
+    position: relative;
+    background-image: url(../assets/1st_Background.jpg);
+    text-shadow: 2px 2px 2px rgba(0,0,0,.2);
+    background-position: center;
+    background-repeat: repeat;
+}
+.inner-bg{
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,35 @@
+.card{
+    border: none;
+    border-radius: 0;
+    background-color: none;
+}
+.bi-facebook, .bi-twitter-x, .bi-google, .bi-linkedin, .bi-youtube{
+    padding: 10px;
+    font-size: 20px;
+}
+.socialmedia{
+    background-color: none;
+}
+.socialmedia>a{
+    color: #fff;
+}
+
+.bi-youtube:hover{
+    color: #ff0000;
+}
+.bi-linkedin:hover{
+    color: #0a66c2;
+}
+.bi-facebook:hover{
+    color: #0866ff;
+}
+.bi-twitter-x:hover{
+    color: #000;
+}
+.bi-google:hover{
+    color: #dc4e42;
+}
+.card-body>h4{
+    font-weight: bold;
+    color: #ceb44b;
+}
